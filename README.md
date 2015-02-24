@@ -1,4 +1,4 @@
-# jfowl-cli
+# [INACTIVE] jfowl-cli
 
 Command-line interface for FireOwl core.
 
